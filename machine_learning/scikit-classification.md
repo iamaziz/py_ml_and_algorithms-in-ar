@@ -1,3 +1,9 @@
+<div dir="rtl" lang="ar">
+<meta charset="utf-8">
+
+
+
+
 
 # قراءة حزمة البيانات زهرة الآيريس
 
@@ -88,3 +94,6 @@ X_test_std = sc.transform(X_test)
 # %%HTML
 # <style>.container { width:93%;} div.prompt {display: none;}</style> <!--or display: none -->
 ```
+
+
+</div>
