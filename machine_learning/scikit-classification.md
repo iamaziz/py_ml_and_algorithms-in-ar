@@ -1,12 +1,10 @@
 <div dir="rtl" lang="ar">
-<meta charset="utf-8">
-
-
 
 
 
 # قراءة حزمة البيانات زهرة الآيريس
 
+</div>
 
 ```python
 from sklearn import datasets
@@ -15,8 +13,11 @@ iris = datasets.load_iris()
 X_iris, y_iris = iris.data, iris.target
 ```
 
+<div dir="rtl" lang="ar">
+
 ## معاينة البيانات
 
+</div>
 
 ```python
 # نلقي نظرة على أول عينه من القياسات ونوعها
@@ -29,8 +30,11 @@ print(f' قياسات الزهرة \n{X_iris[10]}\nالنوع \n{y_iris[10]}')
     0
 
 
+<div dir="rtl" lang="ar">
+
 # تدريب الشبكة على جزء من البيانات
 
+</div>
 
 ```python
 from sklearn.model_selection import train_test_split
@@ -72,9 +76,11 @@ log.score(X_test, y_test)
     1.0
 
 
+<div dir="rtl" lang="ar">
 
 # تحجيم البيانات
 
+</div>
 
 ```python
 from sklearn.preprocessing import StandardScaler
@@ -87,8 +93,11 @@ X_train_std = sc.transform(X_train)
 X_test_std = sc.transform(X_test)
 ```
 
+<div dir="rtl" lang="ar">
+
 # إختبار الشبكة على الجزء المتبقي من البيانات
 
+</div>
 
 ```python
 # %%HTML
