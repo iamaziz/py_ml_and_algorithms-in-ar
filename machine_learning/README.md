@@ -1,3 +1,7 @@
+
+<div dir="rtl" lang="ar">
+<meta charset="utf-8">
+
 الموجز في تعليم الآله
 
 
@@ -7,7 +11,7 @@
 
 # أنواع تعليم الآلة
 
-# إمثلة 
+# إمثلة
 
 
 # خلاصة
@@ -20,6 +24,8 @@
 - [أفضل 20 مشروع ذكاء اصطناعي وتعلم الآلة المفتوح المصدر في لغة البايثون
 ](https://www.threadsnj.com/single-post/top-20-python-ai-and-machine-learning-open-source-projects)
 
+
+</div>
 
 
 <hr>
