@@ -2,7 +2,7 @@
 <div dir="rtl" lang="ar">
 <meta charset="utf-8">
 
-الموجز في تعليم الآله
+# الموجز في تعليم الآله
 
 
 # ماهو تعليم الآلة
@@ -13,10 +13,7 @@
 
 # إمثلة
 
-
 # خلاصة
-
-
 
 # مراجع
 
@@ -29,9 +26,3 @@
 
 
 <hr>
-
-My workflow for building contents to produce Reveal.js slides
-
-- On a Jupyter notebook, activate Cell's Slide Type: View > Cell Toolbar > Slideshow
-- add contents and mark cells slide type as needed
-- download notebook as slides: File > Download as > Reveal.js slides
