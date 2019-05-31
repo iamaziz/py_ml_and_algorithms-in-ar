@@ -179,7 +179,7 @@ False
 
 ```
 
-> لمعلومات اكثر إذهب صفحة إلى  [قائمة الدوال المعرفة في بايثون](https://docs.python.org/3/library/functions.html)
+> لمعلومات اكثر إذهب إلى صفحة: [قائمة الدوال المعرفة في بايثون](https://docs.python.org/3/library/functions.html)
 
 <hr>
 
