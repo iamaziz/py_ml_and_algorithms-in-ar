@@ -1,9 +1,16 @@
+<div dir="rtl" lang="ar">
 
 
+المحتويات 
+
+- [خورازميات البحث](search.md)
+- [خوارميات الترتيب والتصنيف](sorting.md)
+- [الخوارزميات الجشعة](greedy.md)
+- [البرمجة الديناميكية](dp.md)
+- [Graph algorithms](graph.md)
+- [Tree algorithms](tree.md)
 
 <hr>
-
-<div dir="rtl" lang="ar">
 
 #### مراجع مفيدة
 
