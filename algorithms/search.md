@@ -105,3 +105,5 @@ print(answer) # "وجدنا الرقم في القائمة"
 ```
 
 > [هنا شرح آخر مفصل مع الصور](https://www.oolom.com/849/%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A-binary-search-algorithm/)
+
+> [و هنا أيضاً](https://informatic-ar.com/binary_search/)
