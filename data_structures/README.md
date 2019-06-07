@@ -11,7 +11,7 @@
 
 - [القائمة "List"](list.md)
 - [القاموس "Dictionary"](dictionary.md)
-- [القائمة المتصلة "Linked List"](linked_list.md)
+- [القائمة المتصلة "Linked List"](linkedList.md)
 
 
 <hr>
