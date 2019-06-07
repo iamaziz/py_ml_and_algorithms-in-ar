@@ -1,10 +1,17 @@
 class Node:
-    def __init__(self, val, next_=None):
+	"""كائن لتمثيل كل عنصر"""
+
+    def __init__(self, val, next_= None):
+	    # قيمة العنصر
         self.value = val
+	    # مؤشر إلى العنصر التالي
         self.next_ = next_
 
 
+
 class LinkedList:
+"""كائن القائمة المتصلة"""
+
     def __init__(self, head):
         """تبدأ القائمة المتصلة بإضافة العنصر الأول - الرأس """
         self.head = Node(head)
