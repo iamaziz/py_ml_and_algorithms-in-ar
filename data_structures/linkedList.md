@@ -20,9 +20,9 @@ class Node:
 """كائن لتمثيل كل عنصر"""
 
     def __init__(self, val, next_= None):
-				# قيمة العنصر
+        # قيمة العنصر
         self.value = val
-				# مؤشر إلى العنصر التالي
+        # مؤشر إلى العنصر التالي
         self.next_ = next_
 ```
 
