@@ -10,9 +10,9 @@
 
 ![](assets/README-09536b54.png)
 
-<!-- To edit image: /Users/Aziz/Google Drive/draw.io -->
+<!-- To edit images, open: ./assets/*.drawio with draw.io app -->
 
-### أنواع تعليم الآلة
+### أنواع تعلم الآلة
 
 ![](assets/README-e452aa33.png)
 
