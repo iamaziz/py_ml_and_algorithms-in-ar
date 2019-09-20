@@ -14,7 +14,7 @@
 
 ### أنواع تعلم الآلة
 
-![](assets/README-e452aa33.png)
+![](assets/README-633a4848.png)
 
 ### إمثلة
 
