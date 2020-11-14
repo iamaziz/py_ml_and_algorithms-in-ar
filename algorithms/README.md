@@ -7,6 +7,7 @@
 - [خوارميات الترتيب والتصنيف](sorting.md)
 - [الخوارزميات الجشعة](greedy.md)
 - [البرمجة الديناميكية](dp.md)
+- [التلاعب بالبتات أو معالجة البتات](bit.md)
 - [Graph algorithms](graph.md)
 - [Tree algorithms](tree.md)
 
