@@ -14,3 +14,5 @@ e.g.
 
 - Unpacking with *
 - *args and **kwargs
+- lambda and list comprehension
+
