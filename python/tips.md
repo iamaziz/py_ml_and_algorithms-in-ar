@@ -46,3 +46,27 @@ print(f'size of my list is: {mything}')
 mystring = 'my name is ...'
 print(f'size of my string is: {mystring}')
 ```
+
+flatten list
+
+```python
+"""
+Example:
+    >>> [[1, 2,] [4, 7], [3, 17]]
+    >>> # after flatten
+    >>> [1, 2, 4, 7, 3 17]
+"""
+
+>>> x = [[1, 2], [4, 7], [3, 17]]
+
+>>> # list comprehension
+>>> [i for sub in x for i in sub]
+[1, 2, 4, 7, 3, 17]
+
+>>> # itertools 
+>>> import itertools
+>>> list(itertools.chain(*x))  # unpacking
+[1, 2, 4, 7, 3, 17]
+>>> list(itertools.chain.from_iterable(x))
+[1, 2, 4, 7, 3, 17]
+```
