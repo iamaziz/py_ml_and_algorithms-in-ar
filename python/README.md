@@ -17,7 +17,6 @@
 
 - https://www.barmaje.com/topics/7
 - https://harmash.com/python/python-overview/
-- http://www.coursat.org/subject-python
 - https://github.com/dabeaz-course/practical-python
 
 </div>
