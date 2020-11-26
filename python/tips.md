@@ -53,15 +53,15 @@ flatten list
 ```python
 """
 Example:
-    >>> [[1, 2,] [4, 7], [3, 17]]
-    >>> # after flatten
-    >>> [1, 2, 4, 7, 3 17]
+    [[1, 2,] [4, 7], [3, 17]]
+    # after flatten
+    [1, 2, 4, 7, 3 17]
 """
 
->>> x = [[1, 2], [4, 7], [3, 17]]
+x = [[1, 2], [4, 7], [3, 17]]
 
 # with list comprehension
-[i for sub in x for i in sub]
+print([i for sub in x for i in sub])
 # [1, 2, 4, 7, 3, 17]
 
 # with itertools 
