@@ -41,10 +41,11 @@ calculate memory usage for an object
 import sys
 
 mything = ['Hello', 'World']
-print(f'size of my list is: {mything}')
-
+print(sys.getsizeof(mything))
+# 72
 mystring = 'my name is ...'
-print(f'size of my string is: {mystring}')
+print(sys.getsizeof(mystring))
+# 63
 ```
 
 flatten list
@@ -59,14 +60,15 @@ Example:
 
 >>> x = [[1, 2], [4, 7], [3, 17]]
 
->>> # list comprehension
->>> [i for sub in x for i in sub]
-[1, 2, 4, 7, 3, 17]
+# with list comprehension
+[i for sub in x for i in sub]
+# [1, 2, 4, 7, 3, 17]
 
->>> # itertools 
->>> import itertools
->>> list(itertools.chain(*x))  # unpacking
-[1, 2, 4, 7, 3, 17]
->>> list(itertools.chain.from_iterable(x))
-[1, 2, 4, 7, 3, 17]
+# with itertools 
+import itertools
+
+print(list(itertools.chain(*x)))  # unpacking
+# [1, 2, 4, 7, 3, 17]
+print(list(itertools.chain.from_iterable(x)))
+# [1, 2, 4, 7, 3, 17]
 ```
