@@ -9,6 +9,7 @@
 
 - [نظرة سريعة على الأساسيات](python_intro.md)
 - [نظرة سريعة على خصائص متقدمة في بايثون](python_advanced.md)
+- [بعض الخفايا والتلميحات](tips.md)
 
 <hr>
 
@@ -16,7 +17,6 @@
 
 - https://www.barmaje.com/topics/7
 - https://harmash.com/python/python-overview/
-- http://www.coursat.org/subject-python
 - https://github.com/dabeaz-course/practical-python
 
 </div>
