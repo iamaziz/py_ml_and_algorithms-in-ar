@@ -5,10 +5,10 @@
 <div dir="rtl" lang="ar">
 
 # القائمة
-## [بايثون](./python)
-## [الخوارزميات](./algorithms)
-## [تراكيب البيانات](./data_structures)
-## [تعلم الآلة](./machine_learning)
+- [بايثون](./python)
+- [الخوارزميات](./algorithms)
+- [تراكيب البيانات](./data_structures)
+- [تعلم الآلة](./machine_learning)
 
 
 # مدخل إلى: الخوارزميات، هياكل البيانات، وتعليم الآلة في لغة بايثون
