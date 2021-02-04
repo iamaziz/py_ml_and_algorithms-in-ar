@@ -18,5 +18,6 @@
 - https://harmash.com/python/python-overview/
 - http://www.coursat.org/subject-python
 - https://github.com/dabeaz-course/practical-python
+- https://github.com/globalaihub/introduction-to-python
 
 </div>
