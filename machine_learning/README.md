@@ -74,6 +74,7 @@ _**"القوانين في البرمجة التقليدية"**_
 - [أفضل 20 مشروع ذكاء اصطناعي وتعلم الآلة المفتوح المصدر في لغة البايثون
 ](https://www.threadsnj.com/single-post/top-20-python-ai-and-machine-learning-open-source-projects)
 - [التعلم العميق باستخدام PyTorch - كورس في جامعة نيويورك](https://atcold.github.io/pytorch-Deep-Learning/ar/)
+- https://github.com/globalaihub/introduction-to-machine-learning
 
 </div>
 
